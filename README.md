@@ -41,5 +41,6 @@ firmware/
 ```
 ## Build Notes
 Keyboard photos.
+
 <img width="50%" height="50%" alt="image" src="https://github.com/user-attachments/assets/5acfd5b9-bb4b-4ae8-b3d6-1d876bf80830" />
 
